@@ -8,6 +8,8 @@ public class Springbootwebdemo11Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Springbootwebdemo11Application.class, args);
+		
+		System.out.println("testing2");
 	}
 
 }
